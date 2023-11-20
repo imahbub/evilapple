@@ -69,6 +69,10 @@ If you have any confusion, or want to discuss about the categories, please open 
 
 🏠 [Home](https://evilapple.org) , 📖 [About this website](/about), 📢 What are deeds? - Current page
 
-Social: ![Static Badge](https://img.shields.io/badge/Telegram-join_us-0088CC?logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2FThe_PenguinsClub)
+Social: <a href="https://t.me/The_PenguinsClub">![Static Badge](https://img.shields.io/badge/Telegram-join_us-0088CC?logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2FThe_PenguinsClub)</a>
 
-Other projects: ![Static Badge](https://img.shields.io/badge/The_Penguins_Club%2Fbd--blockade-black?logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2FThe-Penguins-Club%2Fbd-blockade)
+Other projects: <a href="https://the-penguins-club.github.io/bd-blockade/">![Static Badge](https://img.shields.io/badge/The_Penguins_Club%2Fbd--blockade-black?logo=github&logoColor=white&link=https%3A%2F%2Fgithub.com%2FThe-Penguins-Club%2Fbd-blockade)</a>
+
+---
+
+*Copyleft 2023, The Penguins Club*
