@@ -3,6 +3,7 @@ layout: default
 title: "About Evil Apple Wiki"
 permalink: /about
 ---
+⤵️ [Jump to Navigation](#navigations)
 
 ![Electronic waste](/img/ewaste.jpg)
 

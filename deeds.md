@@ -3,6 +3,7 @@ layout: default
 title: "About deeds - What do they mean?"
 permalink: /deeds
 ---
+⤵️ [Jump to Navigation](#navigations)
 
 ![Workers in a chinese factory](/img/workers.jpg)
 
