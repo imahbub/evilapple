@@ -3,10 +3,12 @@ layout: default
 title: "Youtube caught slowing down playback purposefully in Firefox"
 permalink: /posts/youtube-caught-slowing-down-playback-purposefully-in-firefox
 ---
-Author: Mahbub Hasan
+⤵️ [Jump to Navigation](#navigations)
 
 ![Youtube slowing down playback in Firefox](/pages/img/ffloading.jpg)
 Image: Reddit
+
+_Author: Mahbub Hasan_
 
 A user has noticed that Youtube has pushed a new update that causes firefox to load video significantly slower for no reason. Users that got the update via Youtube's A/B testing and are using Firefox has seen significant load time. And the reason is clear, Youtube has added a new line of code to the updated script that purposefully increases load time for absolutely no reason. 
 
