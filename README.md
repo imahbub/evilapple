@@ -2,6 +2,10 @@
 
 ### Evil apples of the consumer technology tree
 
+
+![With privillege comes responsibility](/img/responsibility.jpg)
+Credit: Photo by <a href="https://unsplash.com/@lanjohnson?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Lan Johnson</a> on <a href="https://unsplash.com/photos/grayscale-photo-of-woman-holding-sign-aHlZv23P8YQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
 Top evils:
 
 > Warning: This site is not yet open for public

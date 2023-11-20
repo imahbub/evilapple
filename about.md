@@ -3,6 +3,10 @@ layout: default
 title: "About Evil Apple Wiki"
 permalink: /about
 ---
+
+![Electronic waste](/img/ewaste.jpg)
+Credit: Photo by <a href="https://unsplash.com/@john_cameron?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">John Cameron</a> on <a href="https://unsplash.com/photos/black-and-gray-computer-keyboard-on-brown-wooden-table-7zocFMzvbpc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
 ## Why does this wiki exists
 
 This is my attempt of organizing a central repository of corporate evils. I have built a simple site to do all the things in with minimal effort, and anyone is welcome to edit the pages and discuss it in the main repo discussion page.

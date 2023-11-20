@@ -3,6 +3,10 @@ layout: default
 title: "About deeds - What do they mean?"
 permalink: /deeds
 ---
+
+![Workers in a chinese factory](/img/workers.jpg)
+Credit: Photo by <a href="https://unsplash.com/@glsun?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Glsun Mall</a> on <a href="https://unsplash.com/photos/man-in-blue-jacket-wearing-blue-mask-WNX6uk-1LV4?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+
 # What are deeds?
 
 Deeds are types of malicious behaviour done by companies. Here is a list and details:
