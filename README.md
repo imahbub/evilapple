@@ -11,22 +11,22 @@ Click company name for detailed evil rating
 > Warning: This site is not yet open for public
 
 
-| #  | Company               | Deeds                                                                                                                                                                                          |
-| ---- | ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1  | [Apple](/pages/apple) | Vendor lock-in, Monopoly, Unethical lobbying, Anti right-to-repair, Privacy invasive, Anti-consumer, Greenwashing, NSA involvement, Promotion of modern slavery, Participation in CCP campaign |
-| 2  | Amazon                | Labour rights abuse, Monopoly, Unethical lobbying, Privacy invasive, Promotion of modern slavery, Racial discrimination, Anti open-source, Participation in CCP campaign                       |
-| 3  | Google                | Monopoly, Unethical lobbying, Privacy invasive, Anti-consumer, Political manipulation, Anti-environmental, NSA involvement, Promotion of modern slavery, Participation in CCP campaign         |
-| 4  | Microsoft             | Vendor lock-in, Monopoly, Unethical lobbying, Anti right-to-repair, privacy invasive, Anti-consumer, Anti-environmental, NSA involvement, Promotion of modern slavery                          |
-| 5  | Meta                  | Monopoly, Unethical lobbying, Privacy invasive, Anti-consumer, Political manipulation, NSA involement                                                                                          |
-| 6  | Tesla                 | Anti-consumer, labour rights abuse, promotion of modern slavery                                                                                                                                |
-| 7  | TSMC                  | Monopoly, Anti-environmental                                                                                                                                                                   |
-| 8  | Tencent               | Monopoly, Anti-consumer, Privacy invasive, Political manipulation, Participation in CCP campaign                                                                                               |
-| 9  | Samsung               | Anti-consumer, Anti right-to-repair, Privacy invasive, Anti-environmental, Promotion of modern slavery                                                                                         |
-| 10 | Adobe                 | Vendor lock-in, Monopoly, Anti-consumer                                                                                                                                                        |
-| 11 | Netflix               | Anti-consumer                                                                                                                                                                                  |
-| 12 | Pinduoduo             | Anti-consumer, Privacy invasive, Participation in CCP campaign                                                                                                                                 |
-| 13 | Uber                  | Monopoly, Unethical lobbying, Privacy invasive, Labour rights abuse, Worker sexual harassment, Racial discrimination                                                                           |
-| 14 | All printer companies | Are inherently evil                                                                                                                                                                            |
+| #  | Company                                  | Deeds                                                                                                                                                                                          |
+| ---- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1  | [Apple](/pages/apple)                    | Vendor lock-in, Monopoly, Unethical lobbying, Anti right-to-repair, Privacy invasive, Anti-consumer, Greenwashing, NSA involvement, Promotion of modern slavery, Participation in CCP campaign |
+| 2  | Amazon                                   | Labour rights abuse, Monopoly, Unethical lobbying, Privacy invasive, Promotion of modern slavery, Racial discrimination, Anti open-source, Participation in CCP campaign                       |
+| 3  | Google                                   | Monopoly, Unethical lobbying, Privacy invasive, Anti-consumer, Political manipulation, Anti-environmental, NSA involvement, Promotion of modern slavery, Participation in CCP campaign         |
+| 4  | Microsoft                                | Vendor lock-in, Monopoly, Unethical lobbying, Anti right-to-repair, privacy invasive, Anti-consumer, Anti-environmental, NSA involvement, Promotion of modern slavery                          |
+| 5  | Meta                                     | Monopoly, Unethical lobbying, Privacy invasive, Anti-consumer, Political manipulation, NSA involement                                                                                          |
+| 6  | Tesla                                    | Anti-consumer, labour rights abuse, promotion of modern slavery                                                                                                                                |
+| 7  | TSMC                                     | Monopoly, Anti-environmental                                                                                                                                                                   |
+| 8  | Tencent                                  | Monopoly, Anti-consumer, Privacy invasive, Political manipulation, Participation in CCP campaign                                                                                               |
+| 9  | Samsung                                  | Anti-consumer, Anti right-to-repair, Privacy invasive, Anti-environmental, Promotion of modern slavery                                                                                         |
+| 10 | Adobe                                    | Vendor lock-in, Monopoly, Anti-consumer                                                                                                                                                        |
+| 11 | Netflix                                  | Anti-consumer                                                                                                                                                                                  |
+| 12 | Pinduoduo                                | Anti-consumer, Privacy invasive, Participation in CCP campaign                                                                                                                                 |
+| 13 | Uber                                     | Monopoly, Unethical lobbying, Privacy invasive, Labour rights abuse, Worker sexual harassment, Racial discrimination                                                                           |
+| 14 | [All printer companies](/pages/printers) | Are inherently evil                                                                                                                                                                            |
 
 List will go on. Did we miss anything? Add your contribution, or [please let us know](https://github.com/imahbub/evilapple/discussions)
 
