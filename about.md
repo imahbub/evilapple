@@ -5,6 +5,7 @@ permalink: /about
 ---
 
 ![Electronic waste](/img/ewaste.jpg)
+
 Credit: Photo by <a href="https://unsplash.com/@john_cameron?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">John Cameron</a> on <a href="https://unsplash.com/photos/black-and-gray-computer-keyboard-on-brown-wooden-table-7zocFMzvbpc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 ## Why does this wiki exists
