@@ -30,9 +30,21 @@ Click company name for detailed evil rating
 
 List will go on. Did we miss anything? Add your contribution, or [please let us know](https://github.com/imahbub/evilapple/discussions)
 
+## News and updates
+
+Recent news and updates
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
+
 # Navigations:
 
-🏠 Home - current page, 📖 [About this website](/pages/about), 📢 [What are deeds?](/pages/deeds)
+🏠 Home - current page, 📝 [Blog](/pages/blog), 📖 [About this website](/pages/about), 📢 [What are deeds?](/pages/deeds)
 
 Social: <a href="https://t.me/The_PenguinsClub">![Static Badge](https://img.shields.io/badge/Telegram-join_us-0088CC?logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2FThe_PenguinsClub)</a>
 
