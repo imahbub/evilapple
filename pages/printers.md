@@ -55,7 +55,7 @@ Printer companies are responsible for significant amount of environmental damage
 
 ## There is no good players
 
-Contrary to the belif, there is no fair player in this market, and even companies like Brother has succumbed to it [^9]. Printers avoid getting caught in legal troubles thanks to other companies lobbying and passing laws that does not make planned obsolence a crime. Although there have been trial in the europe [^10]. 
+Contrary to the belif, there is no fair player in this market, and even companies like Brother has succumbed to it [^9]. Printers avoid getting caught in legal troubles thanks to other companies lobbying and passing laws that does not make planned obsolence a crime. Although there have been a trial in the europe [^10]. 
 
 Currently no independent or small scale effort to prevent it has arise. Please create a discussion if you know any project. Currently the only way to deal with it, is to make peace with it by buying a bit more expensive ink tank printers that allows third party inks. Which are still bad, but at least you can save some money on the inks. 
 
