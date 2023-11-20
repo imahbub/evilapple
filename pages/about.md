@@ -23,7 +23,7 @@ The name Evil Apple may cause confusion to some audiences. While the company App
 
 # Navigations:
 
-🏠 [Home](https://evilapple.org) , 📖 About this website - current page, 📢 [What are deeds?](/pages/deeds)
+🏠 [Home](https://evilapple.org), 📝 [Blog](/pages/blog) , 📖 About this website - current page, 📢 [What are deeds?](/pages/deeds)
 
 Social: <a href="https://t.me/The_PenguinsClub">![Static Badge](https://img.shields.io/badge/Telegram-join_us-0088CC?logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2FThe_PenguinsClub)</a>
 

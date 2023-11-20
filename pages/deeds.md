@@ -73,7 +73,7 @@ If you have any confusion, or want to discuss about the categories, please open 
 
 # Navigations:
 
-🏠 [Home](https://evilapple.org) , 📖 [About this website](about), 📢 What are deeds? - Current page
+🏠 [Home](https://evilapple.org), 📝 [Blog](/pages/blog), 📖 [About this website](about), 📢 What are deeds? - Current page
 
 Social: <a href="https://t.me/The_PenguinsClub">![Static Badge](https://img.shields.io/badge/Telegram-join_us-0088CC?logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2FThe_PenguinsClub)</a>
 

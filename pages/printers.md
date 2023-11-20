@@ -83,7 +83,7 @@ Currently no independent or small scale effort to prevent it has arise. Please c
 
 # Navigations:
 
-🏠 [Home](https://evilapple.org) , 📖 [About this website](about), 📢 [What are deeds?](deeds)
+🏠 [Home](https://evilapple.org), 📝 [Blog](/pages/blog), 📖 [About this website](about), 📢 [What are deeds?](deeds)
 
 Social: <a href="https://t.me/The_PenguinsClub">![Static Badge](https://img.shields.io/badge/Telegram-join_us-0088CC?logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2FThe_PenguinsClub)</a>
 
