@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "About Evil Apple Wiki"
 permalink: /about
 ---

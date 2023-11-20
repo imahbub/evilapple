@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: "About deeds - What do they mean?"
 permalink: /deeds
 ---
