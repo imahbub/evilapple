@@ -1,7 +1,3 @@
-# Evil apple
-
-### Evil apples of the consumer technology tree
-
 ⤵️ [Jump to Navigation](#navigations)
 
 ![With privillege comes responsibility](responsibility.jpg)
