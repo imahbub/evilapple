@@ -5,6 +5,7 @@ permalink: /posts/youtube-caught-slowing-down-playback-purposefully-in-firefox
 author: "Mahbub Hasan"
 date: "21 NOV 2023"
 description: "Youtube has pushed a new update that slows down video playback in Firefox without no reason. Users who got the latest A/B test update are facing significant load time"
+image: /pages/img/ffloading.jpg
 ---
 ⤵️ [Jump to Navigation](#navigations)
 
