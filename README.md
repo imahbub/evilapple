@@ -1,6 +1,3 @@
----
-layout: default
----
 ⤵️ [Jump to Navigation](#navigations)
 
 ![With privillege comes responsibility](responsibility.jpg)
@@ -35,19 +32,11 @@ List will go on. Did we miss anything? Add your contribution, or [please let us 
 
 ## News and updates
 
-Recent news and updates
-
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+visit: [evilapple.org](https://evilapple.org)
 
 # Navigations:
 
-🏠 Home - current page, 📝 [Blog](/pages/blog), 📖 [About this website](/pages/about), 📢 [What are deeds?](/pages/deeds)
+🏠 Home - current page, 📝 [Blog](https://evilapple.org/pages/blog.md), 📖 [About this website](https://evilapple.org/pages/about), 📢 [What are deeds?](https://evilapple.org/pages/deeds)
 
 Social: <a href="https://t.me/The_PenguinsClub">![Static Badge](https://img.shields.io/badge/Telegram-join_us-0088CC?logo=telegram&logoColor=white&link=https%3A%2F%2Ft.me%2FThe_PenguinsClub)</a>
 
@@ -56,19 +45,3 @@ Other projects: <a href="https://the-penguins-club.github.io/bd-blockade/">![Sta
 ---
 
 *Copyleft 2023, The Penguins Club*
-
-<script src="https://giscus.app/client.js"
-        data-repo="imahbub/evilapple"
-        data-repo-id="R_kgDOKvVkrw"
-        data-category="General"
-        data-category-id="DIC_kwDOKvVkr84CbEw5"
-        data-mapping="pathname"
-        data-strict="0"
-        data-reactions-enabled="1"
-        data-emit-metadata="0"
-        data-input-position="top"
-        data-theme="light"
-        data-lang="en"
-        crossorigin="anonymous"
-        async>
-</script>
