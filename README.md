@@ -1,3 +1,6 @@
+---
+layout: default
+---
 ⤵️ [Jump to Navigation](#navigations)
 
 ![With privillege comes responsibility](responsibility.jpg)
