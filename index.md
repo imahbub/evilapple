@@ -1,5 +1,6 @@
 ---
 layout: default
+image: responsibility.jpg
 ---
 ⤵️ [Jump to Navigation](#navigations)
 
