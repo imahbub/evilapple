@@ -44,7 +44,7 @@ Apple has been accused of many anti-consumer behaviours which are mostly true an
 - Overcharge for cheap repairs
 - Pushing people towards buying a new device over possible repair
 - Voiding warranty for nonsensical reason
-- Blaming users for manufacturing or design problem
+- Blaming users for manufacturing or design problem [^4]
 - Gradual slowing down of older devices
 
 Apple has issued statements for some of the allegations and cited seemingly sensible reasoning, except for the fact that they continue to restrict a better solution in order for a more profitable option. 
@@ -80,6 +80,8 @@ The same practice extends to MacBook and other devices too.
 [^2]: https://www.techconstant.com/apples-lock-in/
 
 [^3]: https://www.apple.com/newsroom/2014/05/28Apple-to-Acquire-Beats-Music-Beats-Electronics/
+
+[^4]: https://youtu.be/AH5F73qPtQQ
 
 # Navigations:
 
