@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "About Apple"
-permalink: /pages/apple
+title: "About Amazon"
+permalink: /pages/amazon
 ---
 ⤵️ [Jump to Navigation](#navigations)
 
