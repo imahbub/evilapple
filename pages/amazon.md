@@ -9,7 +9,7 @@ permalink: /pages/amazon
 
 # The evil of Amazon as a company
 
-Amazon is one of the largest company in the US with a wide range of consumer and enterprise products and service offerings. While they have one of the world's biggest cloud business, they are mostly known to the general consumer for Amazon Ecommerce[^1] which sells multitudes of products offered by many merchants. 
+Amazon is one of the largest company in the US with a wide range of consumer and enterprise products and service offerings. While they have one of the world's biggest cloud business, they are mostly known to the general consumer for Amazon Ecommerce which sells multitudes of products offered by many merchants. 
 
 ## Scores
 
