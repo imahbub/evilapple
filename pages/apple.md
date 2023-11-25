@@ -21,7 +21,7 @@ Apple is the largest company by market capital[^1]. While they do have competiti
 | Envrionmental   | 4.8/10 |
 | Fair trade      | 2.0/10 |
 
-## Deeds
+# Deeds
 
 ### Monopoly
 
