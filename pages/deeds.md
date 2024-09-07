@@ -65,7 +65,7 @@ This is simply when a company takes part in nationwide security operations and p
 
 ### Participation in CCP campaign
 
-This is simply when a company takes part in surveillance or supression of data and public knowledge against the CCP.
+This is simply when a company takes part in surveillance or supression of data and critical public knowledge against the CCP.
 
 ---
 
